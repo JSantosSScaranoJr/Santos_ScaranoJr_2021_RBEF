@@ -1,0 +1,24 @@
+O uso é livre sobre a condição de ser citada as fontes.
+
+LED:
+====
+
+SANTOS, P. J.; SCARANO JR, S. Cores em monitores: Identificando os comprimentos de onda da luz na tela de um monitor LCD e de uma TV de LED através de um espectrógrafo caseiro. São Cristóvão: Editora da Universidade Federal de Sergipe. No prelo.
+
+Laser:
+======
+
+SANTOS, P. J.; SCARANO JR, S. Polênica das cores: determinando objetivamente as cores de lasers utilizando es-pectros obtidos com espectroscópios caseiros. In: SOUZA D. N. (Org.). Ensino de Física: do Olhar à Prática. São Cristóvão: Editora da UFS, 2019. cap. 1, p. 10-37.
+
+Elementos Vela+Sal:
+===================
+
+Santos, J. P. Aprendizagem cooperativa: estudando conceitos físicos de cor e espectro através da astronomia.2018. 130f. Dissertação (Mestrado em Ensino de Física) -Departamento de Física, UFS, São Cristóvão.
+
+Citação para planilha até a publicação do artigo:
+=================================================
+
+Scarano Jr S & Santos, J. P. Procedimento de Calibração em Comprimento de Onda de Espectrógrafos Caseiros Utilizando o DS9. Fonte:Youtube/Astutos-UFS. https://youtu.be/4ojEY_omC8c. 2020.
+
+
+
